@@ -76,7 +76,7 @@ export default App;
 
 * 動作確認
 
-Tailwindの導入が確認できました
+Tailwindのスタイルが適用されました
 
 ```
 npm run dev
